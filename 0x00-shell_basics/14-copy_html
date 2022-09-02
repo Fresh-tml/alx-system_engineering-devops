@@ -1,2 +1,2 @@
 #!/bin/bash
-cp files.html /boot  
+cp -rua *.html ../   
